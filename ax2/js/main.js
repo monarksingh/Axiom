@@ -408,7 +408,7 @@ jQuery(window).load(function(){
 			flickrbase: "http://api.flickr.com/services/feeds/",
 			limit: 9,
 			qstrings: {
-				id: "63512867@N07"
+				id: "128480862@N02"
 			},
 			itemTemplate: '<a href="{{image_b}}" rel="prettyPhoto[pp_gal]"><li><img alt="{{title}}" src="{{image_s}}" /></li></a>'
 		}, function(data) {
